@@ -11,9 +11,8 @@ Uses shadcn/ui for consistent styling
 Prerequisites
 
 React
-shadcn/ui library
-Tailwind CSS
 
+Tailwind CSS
 Installation
 
 Clone the repository
